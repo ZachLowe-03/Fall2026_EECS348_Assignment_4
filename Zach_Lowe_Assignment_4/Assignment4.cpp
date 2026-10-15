@@ -1,6 +1,6 @@
 /*
  * EECS 348 Assignment 4
- * Program Name : sudoku_solver_revised.cpp
+ * Program Name : Assignment4.cpp
  * Description  : Object-oriented, recursive brute-force Sudoku solver. For each
  *                puzzle file it prints the file name, the original puzzle, and
  *                EVERY solution found (or "No solution found").
